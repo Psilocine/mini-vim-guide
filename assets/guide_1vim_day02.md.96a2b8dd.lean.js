@@ -1,0 +1,1 @@
+import{_ as t,c as i,o as e,a}from"./app.111c1596.js";const m=JSON.parse('{"title":"\u7B2C\u4E8C\u5929","description":"","frontmatter":{},"headers":[],"relativePath":"guide/1vim/day02.md","lastUpdated":1662105633000}'),s={name:"guide/1vim/day02.md"},o=a("",8),d=[o];function l(_,r,p,c,n,h){return e(),i("div",null,d)}const u=t(s,[["render",l]]);export{m as __pageData,u as default};
