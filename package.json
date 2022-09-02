@@ -1,15 +1,35 @@
 {
   "name": "mini-vim-guide",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Vim's guide for me or everyone",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psilocine/mini-vim-guide.git"
+  },
+  "keywords": [
+    "vim",
+    "vim guide",
+    "vim guide zh",
+    "vitepress"
+  ],
+  "author": "Psilocine",
   "license": "MIT",
-  "devDependencies": {
-    "vitepress": "^1.0.0-alpha.13",
-    "vue": "^3.2.38"
+  "homepage": "https://github.com/Psilocine/mini-vim-guide/tree/master/#readme",
+  "bugs": {
+    "url": "https://github.com/Psilocine/mini-vim-guide/issues"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "semantic-release": "^19.0.5"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "vitepress": "^1.0.0-alpha.13",
+    "vue": "^3.2.38"
   }
 }
