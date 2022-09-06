@@ -9,6 +9,6 @@ vscode 操作文件
       1. newFile：a
       2. newFolder：shift + a
    2. editor：
-      1. newFile: leader + n + f
-      2. newFolder: leader + n + d
+      1. newFile: `<Leader>` + n + f
+      2. newFolder: `<Leader>` + n + d
 4. 重命名：explorer：r

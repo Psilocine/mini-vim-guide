@@ -11,7 +11,7 @@
 
    rename symbol
 
-   Extract variable：Leader r e
+   Extract variable：`<Leader>` r e
 
    inline variable
 
@@ -19,6 +19,6 @@
 
 2. hocus pocus
 
-   创建 fn：Leader f f
+   创建 fn：`<Leader>` f f
 
-   创建变量：Leader v v
+   创建变量：`<Leader>` v v

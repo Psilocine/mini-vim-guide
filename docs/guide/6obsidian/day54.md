@@ -8,6 +8,6 @@
 
 通过 vim 执行 ob 命令：控制台找到所需命令通过映射模式改键，eg：exmap dailyNotes obcommand daily-notes
 
-通过 Leader 定义命令：nmap Space nn :dailyNotes
+通过 `<Leader>` 定义命令：nmap Space nn :dailyNotes
 
 添加 [[]] 来进行 surround
