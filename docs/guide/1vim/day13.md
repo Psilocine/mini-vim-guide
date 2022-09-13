@@ -2,7 +2,7 @@
 
 ## 替换命令：substitute
 
-### 公式：`:` `[range]` `s` `/` `pattern` `/` `string` `/` `[flags]`
+### 公式：: [range] s / pattern / string / [flags]
 
 1. `range`
    1. `$` - 尾部

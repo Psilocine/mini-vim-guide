@@ -2,26 +2,29 @@
 
 ## 搜索
 
-全局搜索
+### 全局搜索（侧边栏搜索
 
-1. shift + command + f （侧边栏进入搜索）
-2. command + up/down / j k h l：移动
-3. shfit + command + j：打开搜索的 include exclude
-4. shfit + command + h：打开搜索的替换 input
+- 搜索光标高亮部分：`shift + command + f`
+- 移动：`command + up/down` or `j/k`
+  1. `up/down`：顶部区域至搜索列表
+  2. `j/k`：搜素列表移动
+- 打开搜索的 `include exclude`：`shift + command + j`
+- 打开搜索的替换 `input`：`shift + command + h`
 
-全局搜索（第二种方式
+### 全局搜索（Panel 区域搜索
 
-1.command + t
+- `command + t`
 
-文件内搜索
+### 文件内搜索
 
-1. command + shift + o
+- `command + shift + o`
 
-打开 search commands
+### 打开 search commands
 
-1. command + shift + p
+- `command + shift + p`
 
-打开 vscode 命令面板
+### 打开 vscode 命令面板
 
-1. command + p
-2. 命令面板可以自行键入 > @ # 来变成上述的功能
+- `command + p`
+
+> TIPS: 命令面板可以自行键入 > @ # 来变成上述的功能

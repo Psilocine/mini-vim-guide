@@ -2,23 +2,23 @@
 
 ## snippets
 
-vscode 插件：
+### vscode 插件
 
-JavaScript es6 code snippets
+- JavaScript es6 code snippets
 
-vue3 snippets
+- vue3 snippets
 
-vue vocode snippets
+- vue vscode snippets
 
-常用：
+## 常用
 
-imp
+- `imp`
 
-imd
+- `imd`
 
-fn
+- `fn`
 
-rp
+- `rp`
 
 ## 尝试自己手写一个
 

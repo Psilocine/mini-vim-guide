@@ -2,23 +2,23 @@
 
 ## 重构
 
-1. command + .
-2. ctrl + shift + r（没有其他的插件提示，更纯粹
+1. `command + .`
+2. `ctrl + shift + r`（没有其他的插件提示，更纯粹
 
 ## 插件
 
-1. Abracadabra
+- `Abracadabra`
 
-   rename symbol
+  1.  `rename symbol`
 
-   Extract variable：`<Leader>` r e
+  2.  `Extract variable`：`<Leader> r e`
 
-   inline variable
+  3.  `inline variable`
 
-   替换字符换位``
+  4.  替换字符换位 ` `` `
 
-2. hocus pocus
+- `hocus pocus`
 
-   创建 fn：`<Leader>` f f
+  1.  创建 `fn`：`<Leader> f f`
 
-   创建变量：`<Leader>` v v
+  2.  创建变量：`<Leader> v v`
