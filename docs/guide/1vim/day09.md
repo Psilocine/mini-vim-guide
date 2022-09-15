@@ -4,8 +4,8 @@
 
 配合 `<Leader>` 使用，`<Leader>` 是 `vim` 的前缀键）
 
-1. 基于单词移动，eg: `<Leader>` + `<Leader>` + `w/b/e/ge`
-2. 基于移动移动，eg: `<Leader>` + `<Leader>` + `h/j/k/l`
+- 基于单词移动，eg: `<Leader>` + `<Leader>` + `w/b/e/ge`
+- 基于移动移动，eg: `<Leader>` + `<Leader>` + `h/j/k/l`
 
 其实和之前的单词移动是一个逻辑，只不过通过 `easymotion` 的步进可以自行控制
 

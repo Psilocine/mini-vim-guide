@@ -8,16 +8,16 @@
 ## 大小写切换
 
 1. `NORMAL` 模式
-   1. `gU [range]` - 大写 eg: `gU iw`
-   2. `gu [range]` - 小写 eg: `gu iw`
+   - `gU [range]` - 大写 eg: `gU iw`
+   - `gu [range]` - 小写 eg: `gu iw`
 2. `VISUAL` 模式 省略 `g` 按键
 3. 大小写互换 `` shift + ` ``
    1. eg：`serializeElement` → `viw + ~` → `SERIALIZEeLEMENT`
 
 ## 注释
 
-1. `gc [range]` - 单行注释
-2. `gC [range]` - 多行注释
+1. 单行注释：`gc [range]`
+2. 多行注释：`gC [range]`
 
 问题：
 

@@ -5,8 +5,17 @@
 我们知道 `NORMAL` 模式移动是 `h / l` 进行单字符移动，效率不高。
 所以我们需要移动至行首行尾的命令
 
-1. 行首：`shift + o` / `^ (shift + 6)` ⇒ 改键 `shift + h`
-2. 行尾：`$ (shift + 4)` / `g` + `_` ⇒ 改键 `shift + l`
+行首
+
+- `shift + o`
+- `^ (shift + 6)`
+- `shift + h`(改键)
+
+行尾
+
+- `$ (shift + 4)`
+- `g + _`
+- `shift + l`(改键)
 
 ```json
 // vscode -> settings.json
@@ -19,8 +28,7 @@
     "before": ["L"],
     "after": ["g", "_"]
   },
-],
-...
+]
 ```
 
 ## 插入

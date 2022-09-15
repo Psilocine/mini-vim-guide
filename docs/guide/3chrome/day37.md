@@ -1,28 +1,42 @@
 # 第三十七天
 
-## 打断点/取消断点：
+打断点
 
-1. command + b
-2. cmd + shift + b（取消也保留，下次仍然存在）
+- `command + b`
 
-step over：
+取消断点
 
-cmd + ‘
+- `shift + cmd + b`（取消也保留，下次仍然存在）
 
-f10
+`step over`(跳过断点)
 
-step into
+- `cmd + '`
 
-cmd + ;
+- `f10`
 
-f11
+`step into`(跳进断点)
 
-停止当前断点：f5/cmd + \
+- `cmd + ;`
 
-关闭所有断点：cmd + f8
+- `f11`
 
-选中代码打印：cmd + shift + e
+停止当前断点
 
-跳转到指定函数：cmd + shift + o
+- `f5`
+- `cmd + \`
 
-跳转到指定行：ctrl + g
+关闭所有断点
+
+- `cmd + f8`
+
+选中代码打印
+
+- `shift + cmd + e`
+
+跳转到指定函数
+
+- `shift + cmd + o`
+
+跳转到指定行
+
+- `ctrl + g`
